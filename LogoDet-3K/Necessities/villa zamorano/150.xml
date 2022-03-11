@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>villa zamorano</folder>
+	<filename>150.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>villa zamorano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>230</ymin>
+			<xmax>221</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>villa zamorano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>227</ymin>
+			<xmax>288</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>artline</folder>
+	<filename>30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>artline</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>117</ymin>
+			<xmax>513</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

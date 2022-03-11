@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Estrella</folder>
+	<filename>39.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Estrella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>131</ymin>
+			<xmax>403</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

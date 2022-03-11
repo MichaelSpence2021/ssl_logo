@@ -1,0 +1,25 @@
+<annotation>
+	<folder>qipai</folder>
+	<filename>106.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qipai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>90</ymin>
+			<xmax>496</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

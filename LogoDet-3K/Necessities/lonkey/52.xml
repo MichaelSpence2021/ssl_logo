@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lonkey</folder>
+	<filename>52.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lonkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>172</ymin>
+			<xmax>110</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

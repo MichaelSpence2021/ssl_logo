@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>chando</folder>
+	<filename>26.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chando</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>114</ymin>
+			<xmax>443</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

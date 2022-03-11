@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>maglite</folder>
+	<filename>124.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>354</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maglite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>288</ymin>
+			<xmax>432</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

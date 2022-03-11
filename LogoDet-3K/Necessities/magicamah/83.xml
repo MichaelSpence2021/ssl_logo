@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>magicamah</folder>
+	<filename>83.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>503</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magicamah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>24</ymin>
+			<xmax>254</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

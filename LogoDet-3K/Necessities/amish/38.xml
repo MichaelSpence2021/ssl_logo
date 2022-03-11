@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>amish</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>112</ymin>
+			<xmax>320</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

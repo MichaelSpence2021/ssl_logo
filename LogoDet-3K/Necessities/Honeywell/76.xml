@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honeywell</folder>
+	<filename>76.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honeywell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>112</ymin>
+			<xmax>468</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

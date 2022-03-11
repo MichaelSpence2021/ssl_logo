@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Joma</folder>
+	<filename>80.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Joma-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>107</ymin>
+			<xmax>404</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Palina</folder>
+	<filename>25.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>392</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Palina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>147</ymin>
+			<xmax>496</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>mathmos</folder>
+	<filename>37.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>385</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mathmos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>81</ymin>
+			<xmax>452</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

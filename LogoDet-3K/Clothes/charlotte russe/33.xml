@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>charlotte russe</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charlotte russe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>19</ymin>
+			<xmax>445</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

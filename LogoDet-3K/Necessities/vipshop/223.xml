@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>vipshop</folder>
+	<filename>223.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vipshop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>368</ymin>
+			<xmax>201</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

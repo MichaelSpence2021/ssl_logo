@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bigtime</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bigtime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>27</ymin>
+			<xmax>504</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

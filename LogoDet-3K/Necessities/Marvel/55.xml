@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marvel</folder>
+	<filename>55.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marvel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>136</ymin>
+			<xmax>384</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

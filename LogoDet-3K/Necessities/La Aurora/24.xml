@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Aurora</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Aurora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>105</ymin>
+			<xmax>303</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

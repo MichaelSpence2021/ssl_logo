@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>la escepicon</folder>
+	<filename>11.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>la escepicon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>69</ymin>
+			<xmax>342</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

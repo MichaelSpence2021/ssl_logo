@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Emerica</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Emerica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>26</ymin>
+			<xmax>374</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

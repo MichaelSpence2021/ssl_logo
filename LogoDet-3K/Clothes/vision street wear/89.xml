@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>vision street wear</folder>
+	<filename>89.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>521</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vision street wear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>57</ymin>
+			<xmax>459</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

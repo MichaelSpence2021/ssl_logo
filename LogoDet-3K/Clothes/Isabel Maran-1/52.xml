@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Isabel Maran</folder>
+	<filename>52.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>365</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Isabel Maran-2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>143</ymin>
+			<xmax>365</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

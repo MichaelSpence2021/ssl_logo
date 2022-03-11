@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>jlindeberg</folder>
+	<filename>78.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jlindeberg-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>119</ymin>
+			<xmax>259</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

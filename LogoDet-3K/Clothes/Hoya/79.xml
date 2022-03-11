@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hoya</folder>
+	<filename>79.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hoya</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>73</ymin>
+			<xmax>519</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bio ionic</folder>
+	<filename>16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>379</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bio ionic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>97</ymin>
+			<xmax>471</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hush Puppies</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>359</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hush Puppies</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>157</ymin>
+			<xmax>521</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

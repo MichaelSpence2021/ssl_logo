@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hulk</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hulk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>109</ymin>
+			<xmax>480</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

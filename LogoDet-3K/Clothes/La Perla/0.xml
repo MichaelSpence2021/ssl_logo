@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>La Perla</folder>
+	<filename>0.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>394</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Perla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>82</ymin>
+			<xmax>497</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

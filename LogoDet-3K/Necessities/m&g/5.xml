@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>m&amp;g</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m&amp;g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>7</ymin>
+			<xmax>329</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>ppu</folder>
+	<filename>37.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ppu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>285</ymin>
+			<xmax>480</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

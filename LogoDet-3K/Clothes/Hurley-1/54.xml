@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hurley</folder>
+	<filename>54.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hurley-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>74</ymin>
+			<xmax>340</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

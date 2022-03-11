@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marvis</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marvis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>121</ymin>
+			<xmax>439</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Imperial</folder>
+	<filename>72.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Imperial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>35</ymin>
+			<xmax>404</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

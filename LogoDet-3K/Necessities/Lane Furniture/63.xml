@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Lane Furniture</folder>
+	<filename>63.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lane Furniture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>94</ymin>
+			<xmax>482</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pilot parallel</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pilot parallel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>83</ymin>
+			<xmax>368</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

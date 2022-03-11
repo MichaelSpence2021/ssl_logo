@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>country garden</folder>
+	<filename>36.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>country garden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>81</ymin>
+			<xmax>417</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

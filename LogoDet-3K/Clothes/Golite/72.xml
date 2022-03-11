@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Golite</folder>
+	<filename>72.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Golite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>41</ymin>
+			<xmax>415</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

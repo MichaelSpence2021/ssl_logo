@@ -1,0 +1,25 @@
+<annotation>
+	<folder>r &amp; r collections</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r &amp; r collections</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>110</ymin>
+			<xmax>409</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

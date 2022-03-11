@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>maui jim</folder>
+	<filename>125.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maui jim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>89</ymin>
+			<xmax>508</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

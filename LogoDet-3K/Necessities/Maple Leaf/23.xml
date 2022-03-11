@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maple Leaf</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maple Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>320</ymin>
+			<xmax>302</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+import os
+import torch
+from torchvision import transforms
+from PIL import Image
+
+class logoDet3K(Dataset):
+    
+    def __init__(self, dataset_path):
+        self.image_paths = []
+        self.y = []
+        
+        top_labels = [path for path in os.listdir(dataset_path) if path[0] != '.']
+        print(top_labels[:10])
+        for label in top_labels:
+            label_path = dataset_path + '/' + label
+            logo_paths = [path for path in os.listdir(label_path) if path[0] != '.']
+            for logo in logo_paths:
+                logo_path = label_path + '/' + logo
+                img_paths = [path for path in os.listdir(logo_path) if path.split('.')[-1] == 'jpg']
+                for path in img_paths:
+                    img_path = logo_path + '/' + path
+                    self.image_paths.append(img_path)
+                    #self.y.append(label + '_' + logo)
+                    self.y.append(1)
+                    
+    def __len__(self):
+        return len(self.image_paths)
+    
+    def __getitem__(self, index):
+        
+        image = Image.open(self.image_paths[index])
+        image = image.resize((32,32))
+        return image, self.y[index]

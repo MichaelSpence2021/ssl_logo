@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mauviel</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mauviel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>114</ymin>
+			<xmax>384</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

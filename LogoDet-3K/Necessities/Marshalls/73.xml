@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marshalls</folder>
+	<filename>73.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marshalls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>40</ymin>
+			<xmax>483</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

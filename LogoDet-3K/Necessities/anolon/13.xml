@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>anolon</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anolon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>239</ymin>
+			<xmax>348</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

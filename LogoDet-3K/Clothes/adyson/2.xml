@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>adyson</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adyson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>27</ymin>
+			<xmax>415</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

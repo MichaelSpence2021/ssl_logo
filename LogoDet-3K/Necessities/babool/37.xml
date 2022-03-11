@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>babool</folder>
+	<filename>37.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>babool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>226</ymin>
+			<xmax>357</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

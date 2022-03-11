@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Chipotle Mexican Grill</folder>
+	<filename>138.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chipotle Mexican Grill-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>125</ymin>
+			<xmax>402</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

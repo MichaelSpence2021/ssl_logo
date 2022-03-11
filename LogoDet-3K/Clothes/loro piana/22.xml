@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>loro piana</folder>
+	<filename>22.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loro piana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>98</ymin>
+			<xmax>504</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

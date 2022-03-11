@@ -1,0 +1,25 @@
+<annotation>
+	<folder>quanwudi</folder>
+	<filename>68.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quanwudi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>132</ymin>
+			<xmax>228</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

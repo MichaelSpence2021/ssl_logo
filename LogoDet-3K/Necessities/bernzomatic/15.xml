@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bernzomatic</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>389</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bernzomatic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>144</ymin>
+			<xmax>445</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

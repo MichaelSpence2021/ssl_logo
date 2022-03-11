@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Elf</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>152</ymin>
+			<xmax>293</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

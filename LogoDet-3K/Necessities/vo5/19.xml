@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>vo5</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vo5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>49</ymin>
+			<xmax>487</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

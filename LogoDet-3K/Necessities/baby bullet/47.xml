@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>baby bullet</folder>
+	<filename>47.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baby bullet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>198</ymin>
+			<xmax>348</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

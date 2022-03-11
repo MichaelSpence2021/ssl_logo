@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>meters bonwe</folder>
+	<filename>73.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meters bonwe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>59</ymin>
+			<xmax>450</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

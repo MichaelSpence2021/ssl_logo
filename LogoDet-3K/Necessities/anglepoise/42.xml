@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>anglepoise</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anglepoise</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>142</ymin>
+			<xmax>501</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

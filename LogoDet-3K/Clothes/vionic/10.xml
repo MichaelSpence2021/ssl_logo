@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>vionic with orthaheel technology</folder>
+	<filename>10.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vionic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>198</ymin>
+			<xmax>474</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pirma</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pirma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>109</ymin>
+			<xmax>220</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>kookaburra</folder>
+	<filename>117.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kookaburra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>14</ymin>
+			<xmax>485</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

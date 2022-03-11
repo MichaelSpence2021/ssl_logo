@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>whataburger</folder>
+	<filename>37.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whataburger-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>125</ymin>
+			<xmax>360</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

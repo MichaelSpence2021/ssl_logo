@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bobble</folder>
+	<filename>88.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bobble</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>86</ymin>
+			<xmax>355</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

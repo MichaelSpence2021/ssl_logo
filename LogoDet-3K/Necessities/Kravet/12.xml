@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kravet</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kravet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>117</ymin>
+			<xmax>448</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

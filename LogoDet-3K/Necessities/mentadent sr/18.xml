@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mentadent sr</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mentadent sr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>32</ymin>
+			<xmax>333</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

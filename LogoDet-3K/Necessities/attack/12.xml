@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>attack</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>attack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>225</ymin>
+			<xmax>239</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

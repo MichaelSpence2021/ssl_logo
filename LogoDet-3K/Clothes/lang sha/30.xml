@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lang sha</folder>
+	<filename>30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lang sha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>36</ymin>
+			<xmax>460</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

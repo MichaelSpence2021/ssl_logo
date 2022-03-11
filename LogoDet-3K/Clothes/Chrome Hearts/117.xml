@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Chrome Hearts</folder>
+	<filename>117.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrome Hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>118</ymin>
+			<xmax>334</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

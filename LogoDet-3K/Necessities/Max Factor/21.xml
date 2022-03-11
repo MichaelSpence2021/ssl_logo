@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Max Factor</folder>
+	<filename>21.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Max Factor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>71</ymin>
+			<xmax>471</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

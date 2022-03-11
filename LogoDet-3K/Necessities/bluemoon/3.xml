@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bluemoon</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bluemoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>55</ymin>
+			<xmax>467</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

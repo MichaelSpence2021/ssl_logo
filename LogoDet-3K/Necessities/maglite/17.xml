@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>maglite</folder>
+	<filename>17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maglite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>188</ymin>
+			<xmax>382</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

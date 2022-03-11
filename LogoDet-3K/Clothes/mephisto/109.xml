@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>mephisto</folder>
+	<filename>109.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mephisto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>83</ymin>
+			<xmax>518</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

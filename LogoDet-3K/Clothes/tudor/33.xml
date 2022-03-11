@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>tudor</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tudor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>60</ymin>
+			<xmax>473</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

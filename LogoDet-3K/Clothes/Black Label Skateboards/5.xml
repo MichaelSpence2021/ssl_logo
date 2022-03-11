@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Black Label Skateboards</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black Label Skateboards</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>261</ymin>
+			<xmax>454</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

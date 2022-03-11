@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marsh Wheeling</folder>
+	<filename>45.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marsh Wheeling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>344</ymin>
+			<xmax>203</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

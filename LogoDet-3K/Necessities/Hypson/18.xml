@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hypson</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hypson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>90</ymin>
+			<xmax>423</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

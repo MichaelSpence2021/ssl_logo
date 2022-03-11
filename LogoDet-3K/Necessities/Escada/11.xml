@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Escada</folder>
+	<filename>11.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Escada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>120</ymin>
+			<xmax>480</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

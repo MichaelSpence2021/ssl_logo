@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>meiling</folder>
+	<filename>114.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meiling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>192</ymin>
+			<xmax>494</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

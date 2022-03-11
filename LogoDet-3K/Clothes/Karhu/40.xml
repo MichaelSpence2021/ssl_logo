@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Karhu</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Karhu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>104</ymin>
+			<xmax>335</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

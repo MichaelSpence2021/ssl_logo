@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mesa boogie</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mesa boogie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>110</ymin>
+			<xmax>373</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

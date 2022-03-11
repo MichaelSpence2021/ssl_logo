@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>La Aroma de Cuba</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Aroma de Cuba</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>8</ymin>
+			<xmax>517</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

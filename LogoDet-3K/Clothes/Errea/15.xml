@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Errea</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Errea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>52</ymin>
+			<xmax>359</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

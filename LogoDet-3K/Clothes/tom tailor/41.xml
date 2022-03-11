@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>tom tailor</folder>
+	<filename>41.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom tailor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>120</ymin>
+			<xmax>487</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

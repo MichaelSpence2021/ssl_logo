@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Etnies</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Etnies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>123</ymin>
+			<xmax>344</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

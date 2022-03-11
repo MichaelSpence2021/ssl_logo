@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Flor Dominicana</folder>
+	<filename>56.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Flor Dominicana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>126</ymin>
+			<xmax>221</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

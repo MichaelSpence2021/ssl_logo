@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>amnesia</folder>
+	<filename>61.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amnesia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>134</ymin>
+			<xmax>371</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>KELA</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KELA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>72</ymin>
+			<xmax>474</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

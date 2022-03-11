@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>marni</folder>
+	<filename>95.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marni</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>159</ymin>
+			<xmax>201</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

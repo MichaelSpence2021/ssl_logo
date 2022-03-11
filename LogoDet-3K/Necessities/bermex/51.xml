@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bermex</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bermex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>117</ymin>
+			<xmax>459</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

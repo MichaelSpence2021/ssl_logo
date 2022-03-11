@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Ed Hardy</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>386</width>
+		<height>482</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ed Hardy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>363</ymin>
+			<xmax>325</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

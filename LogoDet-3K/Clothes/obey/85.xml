@@ -1,0 +1,25 @@
+<annotation>
+	<folder>obey</folder>
+	<filename>85.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>obey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>287</ymin>
+			<xmax>352</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

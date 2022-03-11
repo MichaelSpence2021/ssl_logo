@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>markor furnishings</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>markor furnishings</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>1</ymin>
+			<xmax>335</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

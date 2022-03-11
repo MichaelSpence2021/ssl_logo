@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Manhattan Portage</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhattan Portage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>252</ymin>
+			<xmax>110</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

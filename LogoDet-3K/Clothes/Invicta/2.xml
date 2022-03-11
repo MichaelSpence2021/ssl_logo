@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Invicta</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Invicta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>113</ymin>
+			<xmax>334</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

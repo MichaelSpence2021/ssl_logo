@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>anerle</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anerle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>142</ymin>
+			<xmax>303</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>ballograf</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ballograf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>197</ymin>
+			<xmax>441</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

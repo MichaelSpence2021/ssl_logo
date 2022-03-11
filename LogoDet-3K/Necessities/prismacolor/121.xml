@@ -1,0 +1,25 @@
+<annotation>
+	<folder>prismacolor</folder>
+	<filename>121.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prismacolor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>203</ymin>
+			<xmax>474</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

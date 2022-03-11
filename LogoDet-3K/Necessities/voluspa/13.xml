@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>voluspa</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>325</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>voluspa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>194</ymin>
+			<xmax>221</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

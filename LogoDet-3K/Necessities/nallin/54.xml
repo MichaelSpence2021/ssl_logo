@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nallin</folder>
+	<filename>54.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nallin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>82</ymin>
+			<xmax>110</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

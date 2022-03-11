@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Givova</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Givova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>118</ymin>
+			<xmax>461</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

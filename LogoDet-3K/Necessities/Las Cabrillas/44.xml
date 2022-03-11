@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Las Cabrillas</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Las Cabrillas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>97</ymin>
+			<xmax>271</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

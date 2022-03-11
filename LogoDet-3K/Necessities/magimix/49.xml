@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>magimix</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magimix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>393</ymin>
+			<xmax>224</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

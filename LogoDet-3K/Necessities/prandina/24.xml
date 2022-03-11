@@ -1,0 +1,25 @@
+<annotation>
+	<folder>prandina</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prandina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>147</ymin>
+			<xmax>476</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

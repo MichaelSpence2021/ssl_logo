@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>INOHERB</folder>
+	<filename>21.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>INOHERB-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>168</ymin>
+			<xmax>454</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>powerdekor</folder>
+	<filename>168.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>powerdekor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>101</ymin>
+			<xmax>317</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

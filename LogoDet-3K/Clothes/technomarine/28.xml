@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>technomarine</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>technomarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>28</ymin>
+			<xmax>503</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

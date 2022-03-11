@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>MBT</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MBT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>56</ymin>
+			<xmax>444</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

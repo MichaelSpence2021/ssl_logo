@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nanjiren</folder>
+	<filename>92.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nanjiren</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>132</ymin>
+			<xmax>162</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

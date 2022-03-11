@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>loewe</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>372</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loewe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>33</ymin>
+			<xmax>436</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

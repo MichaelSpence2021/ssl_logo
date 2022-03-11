@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>l.l.bean</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l.l.bean</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>135</ymin>
+			<xmax>459</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

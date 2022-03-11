@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Gloria Cubana</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Gloria Cubana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>51</ymin>
+			<xmax>324</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

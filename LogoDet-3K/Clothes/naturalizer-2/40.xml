@@ -1,0 +1,25 @@
+<annotation>
+	<folder>naturalizer</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>naturalizer-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>130</ymin>
+			<xmax>449</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

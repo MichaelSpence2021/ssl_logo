@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ifb</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ifb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>159</ymin>
+			<xmax>303</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

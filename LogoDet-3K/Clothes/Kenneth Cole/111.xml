@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kenneth Cole</folder>
+	<filename>111.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>351</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kenneth Cole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>57</ymin>
+			<xmax>312</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

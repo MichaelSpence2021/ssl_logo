@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>maydos</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maydos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>173</ymin>
+			<xmax>379</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

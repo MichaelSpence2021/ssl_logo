@@ -1,0 +1,25 @@
+<annotation>
+	<folder>mokingran</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mokingran</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>83</ymin>
+			<xmax>359</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

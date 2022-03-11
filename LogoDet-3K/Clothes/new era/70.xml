@@ -1,0 +1,25 @@
+<annotation>
+	<folder>new era</folder>
+	<filename>70.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>new era</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>201</ymin>
+			<xmax>492</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

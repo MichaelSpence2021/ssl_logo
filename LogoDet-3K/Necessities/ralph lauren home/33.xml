@@ -1,0 +1,25 @@
+<annotation>
+	<folder>ralph lauren home</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>369</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ralph lauren home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>117</ymin>
+			<xmax>502</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bisque</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bisque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>117</ymin>
+			<xmax>391</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

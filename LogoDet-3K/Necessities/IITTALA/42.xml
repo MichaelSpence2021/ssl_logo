@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>IITTALA</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IITTALA</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>291</ymin>
+			<xmax>524</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

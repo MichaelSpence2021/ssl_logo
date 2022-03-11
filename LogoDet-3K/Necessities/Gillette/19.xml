@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Gillette</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gillette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>119</ymin>
+			<xmax>499</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

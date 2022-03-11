@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>melon bicycles</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>365</width>
+		<height>491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melon bicycles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>175</ymin>
+			<xmax>135</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

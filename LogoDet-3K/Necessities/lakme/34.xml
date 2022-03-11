@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>lakme</folder>
+	<filename>34.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lakme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>25</ymin>
+			<xmax>381</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

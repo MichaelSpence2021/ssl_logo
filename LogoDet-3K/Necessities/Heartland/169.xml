@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Heartland</folder>
+	<filename>169.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heartland</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>123</ymin>
+			<xmax>509</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

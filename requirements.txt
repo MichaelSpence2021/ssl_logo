@@ -1,0 +1,9 @@
+vissl
+fairscale
+PIL
+ipywidgets
+IProgress
+lightning-bolts
+lightning-flash
+lightning-flash[image]
+matplotlib

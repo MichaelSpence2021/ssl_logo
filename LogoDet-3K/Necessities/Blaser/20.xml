@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Blaser</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blaser</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>164</ymin>
+			<xmax>501</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hammary</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hammary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>62</ymin>
+			<xmax>519</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

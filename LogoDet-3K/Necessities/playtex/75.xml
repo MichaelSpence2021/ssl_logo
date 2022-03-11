@@ -1,0 +1,25 @@
+<annotation>
+	<folder>playtex</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>playtex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>37</ymin>
+			<xmax>404</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

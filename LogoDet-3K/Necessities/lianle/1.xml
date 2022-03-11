@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lianle</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lianle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>111</ymin>
+			<xmax>280</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

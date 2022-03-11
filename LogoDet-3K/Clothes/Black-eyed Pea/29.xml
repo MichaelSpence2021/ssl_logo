@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Black-eyed Pea</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>372</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black-eyed Pea</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>60</ymin>
+			<xmax>523</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

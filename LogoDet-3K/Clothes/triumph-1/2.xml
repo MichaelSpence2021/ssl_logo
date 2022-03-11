@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>triumph</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>triumph-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>143</ymin>
+			<xmax>490</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

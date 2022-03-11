@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nicole lee</folder>
+	<filename>52.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>356</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nicole lee-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>284</ymin>
+			<xmax>360</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

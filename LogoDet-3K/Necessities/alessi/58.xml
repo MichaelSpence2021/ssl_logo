@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>alessi</folder>
+	<filename>58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alessi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>209</ymin>
+			<xmax>374</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

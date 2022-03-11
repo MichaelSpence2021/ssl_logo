@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Man O' War</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Man O' War</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>198</ymin>
+			<xmax>470</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

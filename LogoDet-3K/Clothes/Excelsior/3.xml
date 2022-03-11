@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Excelsior</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>357</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excelsior</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>143</ymin>
+			<xmax>473</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

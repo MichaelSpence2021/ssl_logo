@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>steve madden</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steve madden</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>86</ymin>
+			<xmax>504</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>south bedding</folder>
+	<filename>112.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>south bedding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>60</ymin>
+			<xmax>329</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

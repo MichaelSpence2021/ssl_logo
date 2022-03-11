@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Longines</folder>
+	<filename>32.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Longines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>115</ymin>
+			<xmax>448</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

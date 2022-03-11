@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>BODUM</folder>
+	<filename>14.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BODUM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>41</ymin>
+			<xmax>505</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

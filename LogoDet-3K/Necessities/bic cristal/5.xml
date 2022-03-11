@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bic cristal</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bic cristal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>103</ymin>
+			<xmax>391</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

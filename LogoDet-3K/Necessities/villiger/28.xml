@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>villiger</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>villiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>105</ymin>
+			<xmax>239</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

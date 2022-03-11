@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Crumpler</folder>
+	<filename>63.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crumpler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>124</ymin>
+			<xmax>227</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

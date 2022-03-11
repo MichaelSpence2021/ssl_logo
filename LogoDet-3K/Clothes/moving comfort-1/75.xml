@@ -1,0 +1,25 @@
+<annotation>
+	<folder>moving comfort</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>374</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moving comfort-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>161</ymin>
+			<xmax>329</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

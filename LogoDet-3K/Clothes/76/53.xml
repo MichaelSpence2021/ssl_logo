@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>76</folder>
+	<filename>53.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>76</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>261</ymin>
+			<xmax>499</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

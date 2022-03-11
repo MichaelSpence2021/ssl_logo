@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cif</folder>
+	<filename>74.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>481</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cif</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>58</ymin>
+			<xmax>316</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

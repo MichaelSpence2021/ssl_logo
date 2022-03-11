@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Harry Winston</folder>
+	<filename>58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harry Winston-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>163</ymin>
+			<xmax>272</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

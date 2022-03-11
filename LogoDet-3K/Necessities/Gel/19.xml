@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Gel</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>270</ymin>
+			<xmax>458</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
