@@ -1,6 +1,6 @@
 vissl
 fairscale
-PIL
+pillow
 ipywidgets
 IProgress
 lightning-bolts
