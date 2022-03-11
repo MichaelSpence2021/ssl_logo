@@ -1,6 +1,6 @@
 import os
 import torch
-from torch.utils import Dataset
+from torch.utils.data import Dataset
 from torchvision import transforms
 from PIL import Image
 
