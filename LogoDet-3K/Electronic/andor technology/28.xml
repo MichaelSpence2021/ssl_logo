@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>andor technology</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andor technology</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>179</ymin>
+			<xmax>214</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

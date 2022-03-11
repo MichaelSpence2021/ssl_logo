@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lancia</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>486</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lancia</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>14</ymin>
+			<xmax>368</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

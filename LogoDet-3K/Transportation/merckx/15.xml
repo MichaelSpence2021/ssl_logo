@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>merckx</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merckx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>60</ymin>
+			<xmax>415</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

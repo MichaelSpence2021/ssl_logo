@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Kryptonics</folder>
+	<filename>26.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kryptonics</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>8</ymin>
+			<xmax>330</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

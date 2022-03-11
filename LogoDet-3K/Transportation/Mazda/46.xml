@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Mazda</folder>
+	<filename>46.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mazda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>23</ymin>
+			<xmax>417</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

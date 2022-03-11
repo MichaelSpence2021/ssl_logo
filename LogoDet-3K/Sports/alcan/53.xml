@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>alcan</folder>
+	<filename>53.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alcan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>225</ymin>
+			<xmax>383</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

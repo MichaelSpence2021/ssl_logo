@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Medion</folder>
+	<filename>17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>153</ymin>
+			<xmax>378</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

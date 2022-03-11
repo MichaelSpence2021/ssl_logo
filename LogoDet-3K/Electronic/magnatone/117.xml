@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>magnatone</folder>
+	<filename>117.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magnatone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>61</ymin>
+			<xmax>480</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pinarello</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>399</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pinarello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>277</ymin>
+			<xmax>445</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

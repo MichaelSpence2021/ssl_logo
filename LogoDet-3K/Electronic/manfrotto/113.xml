@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>manfrotto</folder>
+	<filename>113.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>manfrotto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>31</ymin>
+			<xmax>447</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

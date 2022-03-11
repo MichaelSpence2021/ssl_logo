@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Conoco</folder>
+	<filename>41.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Conoco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>149</ymin>
+			<xmax>240</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

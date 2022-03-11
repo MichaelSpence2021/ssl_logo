@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Contax</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>391</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Contax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>256</ymin>
+			<xmax>503</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

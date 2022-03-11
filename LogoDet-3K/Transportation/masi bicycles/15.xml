@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>masi bicycles</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>masi bicycles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>150</ymin>
+			<xmax>321</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

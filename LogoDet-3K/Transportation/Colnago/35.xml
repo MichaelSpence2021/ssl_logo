@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Colnago</folder>
+	<filename>35.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Colnago</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>195</ymin>
+			<xmax>501</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

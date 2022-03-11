@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cerwin-Vega</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cerwin-Vega</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>8</ymin>
+			<xmax>480</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

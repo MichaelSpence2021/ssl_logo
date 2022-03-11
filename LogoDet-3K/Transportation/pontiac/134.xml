@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pontiac</folder>
+	<filename>134.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pontiac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>287</ymin>
+			<xmax>468</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

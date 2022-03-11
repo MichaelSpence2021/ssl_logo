@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lexus</folder>
+	<filename>221.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>395</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lexus-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>143</ymin>
+			<xmax>485</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>IQinVision</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IQinVision</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>32</ymin>
+			<xmax>354</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

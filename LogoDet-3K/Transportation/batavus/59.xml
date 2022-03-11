@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>batavus</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batavus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>207</ymin>
+			<xmax>339</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

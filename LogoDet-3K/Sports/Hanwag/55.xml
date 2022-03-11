@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hanwag</folder>
+	<filename>55.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hanwag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>11</ymin>
+			<xmax>438</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

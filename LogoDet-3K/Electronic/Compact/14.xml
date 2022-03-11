@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Compact</folder>
+	<filename>14.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Compact</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>39</ymin>
+			<xmax>448</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

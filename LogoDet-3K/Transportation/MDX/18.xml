@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>MDX</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MDX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>61</ymin>
+			<xmax>280</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

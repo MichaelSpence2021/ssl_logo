@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>ginetta</folder>
+	<filename>82.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ginetta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>42</ymin>
+			<xmax>338</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

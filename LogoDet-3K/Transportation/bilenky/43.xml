@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bilenky</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bilenky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>30</ymin>
+			<xmax>429</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

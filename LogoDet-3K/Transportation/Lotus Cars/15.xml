@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Lotus Cars</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lotus Cars</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>103</ymin>
+			<xmax>390</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

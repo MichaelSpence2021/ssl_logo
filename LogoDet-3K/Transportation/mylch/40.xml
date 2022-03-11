@@ -1,0 +1,25 @@
+<annotation>
+	<folder>mylch</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mylch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>204</ymin>
+			<xmax>284</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

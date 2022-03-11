@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Lowepro</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lowepro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>182</ymin>
+			<xmax>504</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

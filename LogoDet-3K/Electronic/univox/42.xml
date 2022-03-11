@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>univox</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>univox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>100</ymin>
+			<xmax>480</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

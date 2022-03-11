@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>atlas air</folder>
+	<filename>105.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>atlas air</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>178</ymin>
+			<xmax>313</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

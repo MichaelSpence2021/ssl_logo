@@ -1,0 +1,25 @@
+<annotation>
+	<folder>r-line</folder>
+	<filename>139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r-line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>159</ymin>
+			<xmax>312</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

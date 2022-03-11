@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>me too</folder>
+	<filename>166.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>me too</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>132</ymin>
+			<xmax>389</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

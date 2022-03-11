@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ilford Photo</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ilford Photo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>44</ymin>
+			<xmax>467</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Gulf Oil</folder>
+	<filename>71.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gulf Oil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>15</ymin>
+			<xmax>494</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

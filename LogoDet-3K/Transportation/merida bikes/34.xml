@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>merida bikes</folder>
+	<filename>34.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>merida bikes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>120</ymin>
+			<xmax>484</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

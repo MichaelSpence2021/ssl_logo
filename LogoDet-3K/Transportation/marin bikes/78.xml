@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>marin bikes</folder>
+	<filename>78.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marin bikes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>239</ymin>
+			<xmax>365</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

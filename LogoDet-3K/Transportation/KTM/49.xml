@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>KTM</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KTM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>179</ymin>
+			<xmax>193</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

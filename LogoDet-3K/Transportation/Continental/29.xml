@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Continental</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>365</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Continental</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>46</ymin>
+			<xmax>436</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

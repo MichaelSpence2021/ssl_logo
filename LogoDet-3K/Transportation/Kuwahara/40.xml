@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kuwahara</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>503</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kuwahara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>338</ymin>
+			<xmax>336</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>maxxis</folder>
+	<filename>116.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maxxis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>69</ymin>
+			<xmax>344</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

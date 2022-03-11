@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>land rover</folder>
+	<filename>70.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land rover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>43</ymin>
+			<xmax>395</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

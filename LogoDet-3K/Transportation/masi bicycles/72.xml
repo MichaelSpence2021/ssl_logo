@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>masi bicycles</folder>
+	<filename>72.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>masi bicycles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>116</ymin>
+			<xmax>214</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>masi bicycles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>122</ymin>
+			<xmax>429</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

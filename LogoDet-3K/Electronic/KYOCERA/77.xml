@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>KYOCERA</folder>
+	<filename>77.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KYOCERA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>54</ymin>
+			<xmax>474</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

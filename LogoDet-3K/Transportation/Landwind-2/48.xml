@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Landwind</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Landwind-3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>105</ymin>
+			<xmax>298</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

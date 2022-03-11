@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Los Angeles International Airport</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Los Angeles International Airport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>202</ymin>
+			<xmax>486</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

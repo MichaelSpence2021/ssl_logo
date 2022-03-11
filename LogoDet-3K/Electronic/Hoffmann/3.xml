@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hoffmann</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hoffmann</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>57</ymin>
+			<xmax>482</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

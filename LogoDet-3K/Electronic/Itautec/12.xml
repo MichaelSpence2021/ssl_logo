@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Itautec</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Itautec</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>150</ymin>
+			<xmax>490</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

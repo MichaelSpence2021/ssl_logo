@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Consort</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Consort</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>97</ymin>
+			<xmax>449</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

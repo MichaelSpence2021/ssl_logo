@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Chronoswiss</folder>
+	<filename>82.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>395</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chronoswiss-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>56</ymin>
+			<xmax>446</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

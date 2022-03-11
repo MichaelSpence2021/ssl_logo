@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Contec</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Contec</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>67</ymin>
+			<xmax>207</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

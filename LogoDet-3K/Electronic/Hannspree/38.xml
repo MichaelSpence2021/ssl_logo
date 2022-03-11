@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hannspree</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hannspree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>118</ymin>
+			<xmax>280</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

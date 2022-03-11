@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>maruishi</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maruishi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>237</ymin>
+			<xmax>298</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

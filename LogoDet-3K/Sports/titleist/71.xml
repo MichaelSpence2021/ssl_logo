@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>titleist</folder>
+	<filename>71.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>titleist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>88</ymin>
+			<xmax>316</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

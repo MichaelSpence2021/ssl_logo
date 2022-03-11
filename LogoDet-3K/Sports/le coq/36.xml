@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>le coq</folder>
+	<filename>36.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>357</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>le coq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>46</ymin>
+			<xmax>436</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

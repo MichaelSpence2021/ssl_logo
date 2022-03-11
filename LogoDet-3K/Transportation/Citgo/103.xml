@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Citgo</folder>
+	<filename>103.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Citgo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>33</ymin>
+			<xmax>418</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

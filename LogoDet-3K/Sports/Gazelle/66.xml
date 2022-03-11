@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Gazelle</folder>
+	<filename>66.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gazelle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>201</ymin>
+			<xmax>291</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

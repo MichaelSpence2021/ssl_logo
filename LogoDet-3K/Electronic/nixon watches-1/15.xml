@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nixon watches</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nixon watches-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>180</ymin>
+			<xmax>236</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

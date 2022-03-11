@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>MediaTek</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MediaTek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>60</ymin>
+			<xmax>473</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Kuota</folder>
+	<filename>76.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>395</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kuota</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>11</ymin>
+			<xmax>195</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

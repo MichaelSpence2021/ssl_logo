@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>iPhone</folder>
+	<filename>95.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>362</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iPhone-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>93</ymin>
+			<xmax>454</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

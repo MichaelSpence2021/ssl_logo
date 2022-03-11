@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bobcat</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>164</ymin>
+			<xmax>474</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

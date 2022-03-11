@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>GPM</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GPM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>122</ymin>
+			<xmax>461</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

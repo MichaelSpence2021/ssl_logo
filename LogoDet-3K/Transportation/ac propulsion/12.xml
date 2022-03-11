@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>ac propulsion</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac propulsion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>228</ymin>
+			<xmax>272</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

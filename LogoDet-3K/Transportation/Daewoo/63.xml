@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Daewoo</folder>
+	<filename>63.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daewoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>205</ymin>
+			<xmax>516</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

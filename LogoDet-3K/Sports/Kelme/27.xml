@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kelme</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kelme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>27</ymin>
+			<xmax>446</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Copec</folder>
+	<filename>46.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Copec</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>184</ymin>
+			<xmax>321</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

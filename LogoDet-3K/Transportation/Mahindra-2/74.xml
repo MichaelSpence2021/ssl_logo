@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Mahindra</folder>
+	<filename>74.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mahindra-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>82</ymin>
+			<xmax>458</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

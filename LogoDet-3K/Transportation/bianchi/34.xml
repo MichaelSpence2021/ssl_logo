@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bianchi</folder>
+	<filename>34.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bianchi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>279</ymin>
+			<xmax>423</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

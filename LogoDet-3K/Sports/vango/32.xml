@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>vango</folder>
+	<filename>32.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>122</ymin>
+			<xmax>393</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

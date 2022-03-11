@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Logitech</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Logitech</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>63</ymin>
+			<xmax>382</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

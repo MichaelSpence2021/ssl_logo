@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>malata</folder>
+	<filename>61.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malata-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>202</ymin>
+			<xmax>359</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

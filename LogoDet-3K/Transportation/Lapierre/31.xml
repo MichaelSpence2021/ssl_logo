@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lapierre</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lapierre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>134</ymin>
+			<xmax>416</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

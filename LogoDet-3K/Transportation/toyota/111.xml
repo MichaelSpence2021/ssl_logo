@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>toyota</folder>
+	<filename>111.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toyota</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>37</ymin>
+			<xmax>279</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

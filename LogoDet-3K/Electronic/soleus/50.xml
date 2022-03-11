@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>soleus</folder>
+	<filename>50.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soleus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>61</ymin>
+			<xmax>208</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

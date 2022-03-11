@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Curtis</folder>
+	<filename>41.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>398</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Curtis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>164</ymin>
+			<xmax>520</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

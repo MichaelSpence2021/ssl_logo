@@ -1,0 +1,25 @@
+<annotation>
+	<folder>GMC</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GMC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>53</ymin>
+			<xmax>476</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

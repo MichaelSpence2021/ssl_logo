@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mclaren</folder>
+	<filename>61.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mclaren</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>137</ymin>
+			<xmax>432</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

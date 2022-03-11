@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Embraer</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Embraer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>122</ymin>
+			<xmax>487</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

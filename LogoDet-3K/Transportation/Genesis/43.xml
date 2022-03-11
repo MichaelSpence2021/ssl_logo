@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Genesis</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Genesis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>158</ymin>
+			<xmax>389</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

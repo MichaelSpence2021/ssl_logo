@@ -1,0 +1,25 @@
+<annotation>
+	<folder>quintana roo</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quintana roo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>235</ymin>
+			<xmax>482</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

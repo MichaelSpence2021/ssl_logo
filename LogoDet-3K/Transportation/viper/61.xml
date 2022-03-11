@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>viper</folder>
+	<filename>61.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>viper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>117</ymin>
+			<xmax>480</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

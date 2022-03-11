@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Edelrid</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Edelrid</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>151</ymin>
+			<xmax>306</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

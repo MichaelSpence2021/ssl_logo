@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>EMS</folder>
+	<filename>35.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EMS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>231</ymin>
+			<xmax>360</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

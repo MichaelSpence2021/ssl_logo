@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Esso</folder>
+	<filename>36.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Esselte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>147</ymin>
+			<xmax>279</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

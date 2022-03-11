@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lifan</folder>
+	<filename>73.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lifan-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>66</ymin>
+			<xmax>267</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

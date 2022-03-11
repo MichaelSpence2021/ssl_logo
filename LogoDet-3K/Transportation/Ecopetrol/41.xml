@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Ecopetrol</folder>
+	<filename>41.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ecopetrol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>50</ymin>
+			<xmax>498</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

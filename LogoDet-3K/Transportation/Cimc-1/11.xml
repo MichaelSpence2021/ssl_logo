@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cimc</folder>
+	<filename>11.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cimc-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>32</ymin>
+			<xmax>220</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

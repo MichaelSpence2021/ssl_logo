@@ -1,0 +1,25 @@
+<annotation>
+	<folder>oakley</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>393</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oakley-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>40</ymin>
+			<xmax>439</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

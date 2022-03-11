@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maserati</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maserati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>127</ymin>
+			<xmax>387</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

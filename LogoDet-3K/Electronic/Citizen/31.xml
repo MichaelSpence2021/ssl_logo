@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Citizen</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>372</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Citizen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>104</ymin>
+			<xmax>396</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

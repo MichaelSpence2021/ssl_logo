@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>toyota</folder>
+	<filename>139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toyota</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>139</ymin>
+			<xmax>470</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

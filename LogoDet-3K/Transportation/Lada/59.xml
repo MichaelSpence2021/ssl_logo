@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lada</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lada</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>6</ymin>
+			<xmax>493</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>littmann</folder>
+	<filename>113.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liu gong</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>137</ymin>
+			<xmax>515</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

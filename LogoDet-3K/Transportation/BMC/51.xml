@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>BMC</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>128</ymin>
+			<xmax>364</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

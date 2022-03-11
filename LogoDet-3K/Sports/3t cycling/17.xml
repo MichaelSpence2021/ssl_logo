@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>3t cycling</folder>
+	<filename>17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3t cycling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>106</ymin>
+			<xmax>377</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

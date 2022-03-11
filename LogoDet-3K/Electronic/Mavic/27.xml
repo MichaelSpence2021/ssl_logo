@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Mavic</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mavic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>90</ymin>
+			<xmax>417</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

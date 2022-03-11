@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>BMW</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>5</ymin>
+			<xmax>410</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

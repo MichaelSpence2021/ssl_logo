@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>huari appliance</folder>
+	<filename>113.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>huari appliance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>19</ymin>
+			<xmax>364</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

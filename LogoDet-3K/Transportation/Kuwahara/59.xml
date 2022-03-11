@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kuwahara</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>385</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kuwahara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>71</ymin>
+			<xmax>501</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

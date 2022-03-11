@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Ground Round</folder>
+	<filename>58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ground Round</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>61</ymin>
+			<xmax>498</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

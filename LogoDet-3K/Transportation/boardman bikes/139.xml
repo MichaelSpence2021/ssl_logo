@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>boardman bikes</folder>
+	<filename>139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boardman bikes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>34</ymin>
+			<xmax>290</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

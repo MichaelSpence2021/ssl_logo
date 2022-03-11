@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hublot</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>353</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hublot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>38</ymin>
+			<xmax>483</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>haier</folder>
+	<filename>msn1 (34).jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>haier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>37</ymin>
+			<xmax>433</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
