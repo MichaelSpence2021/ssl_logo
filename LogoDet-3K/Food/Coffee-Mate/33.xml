@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Coffee-Mate</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coffee-Mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>184</ymin>
+			<xmax>339</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

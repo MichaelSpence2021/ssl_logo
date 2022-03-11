@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Long John Silver's</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Long John Silver's</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>1</ymin>
+			<xmax>239</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

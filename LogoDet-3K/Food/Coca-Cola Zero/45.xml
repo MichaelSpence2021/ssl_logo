@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Coca-Cola Zero</folder>
+	<filename>45.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coca-Cola Zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>65</ymin>
+			<xmax>394</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

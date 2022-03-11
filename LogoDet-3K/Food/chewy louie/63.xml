@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>chewy louie</folder>
+	<filename>63.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chewy louie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>128</ymin>
+			<xmax>273</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

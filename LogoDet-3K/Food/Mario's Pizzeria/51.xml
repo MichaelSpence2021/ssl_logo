@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Mario's Pizzeria</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mario's Pizzeria</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>14</ymin>
+			<xmax>498</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

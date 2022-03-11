@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>El Jimador</folder>
+	<filename>87.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>520</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>El Jimador</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>322</ymin>
+			<xmax>147</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

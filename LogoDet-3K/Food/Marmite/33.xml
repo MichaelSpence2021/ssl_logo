@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marmite</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marmite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>44</ymin>
+			<xmax>418</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

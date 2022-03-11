@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cassano's Pizza King</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cassano's Pizza King</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>9</ymin>
+			<xmax>485</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

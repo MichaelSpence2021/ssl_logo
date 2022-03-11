@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nairobi java house</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nairobi java house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>18</ymin>
+			<xmax>485</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

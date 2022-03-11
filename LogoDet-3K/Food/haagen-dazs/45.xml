@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>haagen-dazs</folder>
+	<filename>45.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>356</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>haagen-dazs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>323</ymin>
+			<xmax>271</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

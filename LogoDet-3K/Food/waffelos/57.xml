@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>waffelos</folder>
+	<filename>57.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffelos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>67</ymin>
+			<xmax>153</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

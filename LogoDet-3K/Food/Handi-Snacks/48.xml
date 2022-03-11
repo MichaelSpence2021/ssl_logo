@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Handi-Snacks</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Handi-Snacks</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>1</ymin>
+			<xmax>160</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

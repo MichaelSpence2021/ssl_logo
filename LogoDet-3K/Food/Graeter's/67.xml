@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Graeter's</folder>
+	<filename>67.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>382</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Graeter's</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>50</ymin>
+			<xmax>494</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

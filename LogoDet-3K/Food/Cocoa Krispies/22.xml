@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Cocoa Krispies</folder>
+	<filename>22.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cocoa Krispies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>113</ymin>
+			<xmax>176</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

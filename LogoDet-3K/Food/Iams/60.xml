@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Iams</folder>
+	<filename>60.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iams</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>109</ymin>
+			<xmax>433</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

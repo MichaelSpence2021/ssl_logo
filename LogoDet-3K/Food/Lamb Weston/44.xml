@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Lamb Weston</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lamb Weston</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>56</ymin>
+			<xmax>308</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

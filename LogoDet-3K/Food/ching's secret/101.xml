@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>ching's secret</folder>
+	<filename>101.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ching's secret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>242</ymin>
+			<xmax>315</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

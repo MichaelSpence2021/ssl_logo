@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maggi Masala noodles</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maggi Masala noodles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>39</ymin>
+			<xmax>296</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

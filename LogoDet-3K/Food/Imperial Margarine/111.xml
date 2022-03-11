@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Imperial Margarine</folder>
+	<filename>111.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Imperial Margarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>180</ymin>
+			<xmax>418</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

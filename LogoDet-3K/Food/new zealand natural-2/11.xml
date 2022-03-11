@@ -1,0 +1,25 @@
+<annotation>
+	<folder>new zealand natural-2</folder>
+	<filename>11.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>new zealand natural-3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>21</ymin>
+			<xmax>456</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

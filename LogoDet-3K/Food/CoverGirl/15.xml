@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>CoverGirl</folder>
+	<filename>15.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CoverGirl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>37</ymin>
+			<xmax>474</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

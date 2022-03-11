@@ -1,0 +1,25 @@
+<annotation>
+	<folder>queirolo</folder>
+	<filename>10.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queirolo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>66</ymin>
+			<xmax>509</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

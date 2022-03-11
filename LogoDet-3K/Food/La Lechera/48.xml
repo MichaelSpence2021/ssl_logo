@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Lechera</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Lechera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>181</ymin>
+			<xmax>491</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

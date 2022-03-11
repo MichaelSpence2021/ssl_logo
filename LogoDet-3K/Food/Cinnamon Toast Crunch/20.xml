@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cinnamon Toast Crunch</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cinnamon Toast Crunch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>115</ymin>
+			<xmax>339</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

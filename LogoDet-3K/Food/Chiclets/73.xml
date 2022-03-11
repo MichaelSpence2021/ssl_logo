@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Chiclets</folder>
+	<filename>73.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chiclets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>109</ymin>
+			<xmax>410</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

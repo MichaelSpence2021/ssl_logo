@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Club Social</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>521</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Club Social</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>130</ymin>
+			<xmax>351</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

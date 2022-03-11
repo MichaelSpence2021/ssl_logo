@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>I Can't Believe It's Not Butter</folder>
+	<filename>39.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Can't Believe It's Not Butter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>152</ymin>
+			<xmax>403</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>CHIVAS</folder>
+	<filename>95.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>359</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CHIVAS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>114</ymin>
+			<xmax>248</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

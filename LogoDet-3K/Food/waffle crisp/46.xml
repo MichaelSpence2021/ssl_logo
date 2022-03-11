@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>waffle crisp</folder>
+	<filename>46.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffle crisp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>113</ymin>
+			<xmax>332</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

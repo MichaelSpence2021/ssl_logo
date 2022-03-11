@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>lollicup coffee &amp; tea</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lollicup coffee &amp; tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>85</ymin>
+			<xmax>280</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

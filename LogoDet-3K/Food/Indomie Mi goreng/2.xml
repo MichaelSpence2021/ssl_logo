@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Indomie Mi goreng</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indomie Mi goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>35</ymin>
+			<xmax>195</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

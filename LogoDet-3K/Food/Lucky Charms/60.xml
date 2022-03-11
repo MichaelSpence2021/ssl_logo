@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lucky Charms</folder>
+	<filename>60.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lucky Charms</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>92</ymin>
+			<xmax>360</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

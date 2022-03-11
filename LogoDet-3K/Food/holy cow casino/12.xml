@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>holy cow casino</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>holy cow casino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>60</ymin>
+			<xmax>359</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>MaggieMoo's Ice Cream and Treatery</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MaggieMoo's Ice Cream and Treatery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>71</ymin>
+			<xmax>118</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

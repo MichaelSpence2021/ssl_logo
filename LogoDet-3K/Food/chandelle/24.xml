@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>chandelle</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chandelle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>288</ymin>
+			<xmax>473</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

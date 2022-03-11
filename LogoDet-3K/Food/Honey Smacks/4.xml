@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honey Smacks</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Smacks</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>38</ymin>
+			<xmax>522</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

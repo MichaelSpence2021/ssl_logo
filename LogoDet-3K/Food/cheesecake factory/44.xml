@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>cheesecake factory</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheesecake factory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>51</ymin>
+			<xmax>341</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

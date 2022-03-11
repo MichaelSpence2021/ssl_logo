@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Highland Toffee</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Highland Toffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>113</ymin>
+			<xmax>382</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

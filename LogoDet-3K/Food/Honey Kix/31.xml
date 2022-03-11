@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honey Kix</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Kix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>133</ymin>
+			<xmax>314</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

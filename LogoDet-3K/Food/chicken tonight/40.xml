@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>chicken tonight</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken tonight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>177</ymin>
+			<xmax>496</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

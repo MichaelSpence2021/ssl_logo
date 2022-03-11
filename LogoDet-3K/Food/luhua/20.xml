@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>luhua</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luhua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>312</ymin>
+			<xmax>225</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

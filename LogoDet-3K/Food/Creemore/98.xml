@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Creemore</folder>
+	<filename>98.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Creemore</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>6</ymin>
+			<xmax>279</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

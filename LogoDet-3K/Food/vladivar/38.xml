@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>vladivar</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vladivar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>173</ymin>
+			<xmax>318</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

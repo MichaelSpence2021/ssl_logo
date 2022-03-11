@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>waffle house</folder>
+	<filename>54.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffle house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>143</ymin>
+			<xmax>503</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

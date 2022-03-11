@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Cruz Tequila</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cruz Tequila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>161</ymin>
+			<xmax>360</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

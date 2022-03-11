@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Crunchy Nut</folder>
+	<filename>16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crunchy Nut</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>15</ymin>
+			<xmax>377</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

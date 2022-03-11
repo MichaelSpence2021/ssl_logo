@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maestro Dobel</folder>
+	<filename>72.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>521</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maestro Dobel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>47</ymin>
+			<xmax>235</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

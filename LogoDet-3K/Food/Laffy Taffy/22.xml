@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Laffy Taffy</folder>
+	<filename>22.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laffy Taffy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>86</ymin>
+			<xmax>394</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

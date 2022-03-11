@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>warburtons</folder>
+	<filename>106.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warburtons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>276</ymin>
+			<xmax>452</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

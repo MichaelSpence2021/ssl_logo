@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Market Pantry</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Market Pantry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>138</ymin>
+			<xmax>124</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

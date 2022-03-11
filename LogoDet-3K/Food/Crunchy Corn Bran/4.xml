@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Crunchy Corn Bran</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crunchy Corn Bran</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>101</ymin>
+			<xmax>466</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

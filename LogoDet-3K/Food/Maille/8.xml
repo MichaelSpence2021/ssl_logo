@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maille</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maille</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>120</ymin>
+			<xmax>430</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

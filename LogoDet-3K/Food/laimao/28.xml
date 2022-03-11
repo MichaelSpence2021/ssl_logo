@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>laimao</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laimao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>169</ymin>
+			<xmax>196</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

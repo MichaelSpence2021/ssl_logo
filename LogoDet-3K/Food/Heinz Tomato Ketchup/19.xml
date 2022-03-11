@@ -1,0 +1,37 @@
+<annotation verified="yes">
+	<folder>Heinz Tomato Ketchup</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heinz Tomato Ketchup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>141</ymin>
+			<xmax>220</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Heinz Tomato Ketchup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>145</ymin>
+			<xmax>482</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

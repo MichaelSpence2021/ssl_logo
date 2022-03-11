@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Poulain</folder>
+	<filename>89.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Poulain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>82</ymin>
+			<xmax>341</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

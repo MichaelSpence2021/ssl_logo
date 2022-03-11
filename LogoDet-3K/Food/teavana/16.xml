@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>teavana</folder>
+	<filename>16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teavana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>158</ymin>
+			<xmax>350</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

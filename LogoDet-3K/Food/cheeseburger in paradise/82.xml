@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>cheeseburger in paradise</folder>
+	<filename>82.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheeseburger in paradise</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>48</ymin>
+			<xmax>402</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

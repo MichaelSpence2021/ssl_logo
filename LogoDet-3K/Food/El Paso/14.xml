@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>El Paso</folder>
+	<filename>14.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>El Paso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>95</ymin>
+			<xmax>491</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marshmallow</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marshmallow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>264</ymin>
+			<xmax>513</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>walkers lites</folder>
+	<filename>63.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>walkers lites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>127</ymin>
+			<xmax>347</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

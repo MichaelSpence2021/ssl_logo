@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ginsters</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ginsters</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>25</ymin>
+			<xmax>418</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

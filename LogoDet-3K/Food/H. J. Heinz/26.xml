@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>H. J. Heinz</folder>
+	<filename>26.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H. J. Heinz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>305</ymin>
+			<xmax>243</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

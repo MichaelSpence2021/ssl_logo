@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Magners Irish</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Magners Irish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>202</ymin>
+			<xmax>364</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>wayne's coffee</folder>
+	<filename>76.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wayne's coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>294</ymin>
+			<xmax>391</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

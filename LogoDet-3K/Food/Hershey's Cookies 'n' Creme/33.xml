@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hershey's Cookies 'n' Creme</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hershey's Cookies 'n' Creme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>101</ymin>
+			<xmax>359</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

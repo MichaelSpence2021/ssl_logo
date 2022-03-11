@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Kwality Wall's</folder>
+	<filename>50.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kwality Wall's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>253</ymin>
+			<xmax>379</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

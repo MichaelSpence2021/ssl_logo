@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honey Nut Corn Flakes</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>354</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Nut Corn Flakes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>112</ymin>
+			<xmax>313</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

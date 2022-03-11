@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Highland Spring</folder>
+	<filename>6.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>394</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Highland Spring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>62</ymin>
+			<xmax>379</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

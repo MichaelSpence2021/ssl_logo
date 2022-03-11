@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Eden Cheese</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eden Cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>83</ymin>
+			<xmax>261</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

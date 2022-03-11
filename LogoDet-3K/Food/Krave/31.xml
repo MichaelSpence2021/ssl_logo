@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Krave</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Krave</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>98</ymin>
+			<xmax>297</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honey Bunches of Oats</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Bunches of Oats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>46</ymin>
+			<xmax>379</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

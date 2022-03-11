@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hard Rock Cafe</folder>
+	<filename>95.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Rock Cafe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>9</ymin>
+			<xmax>482</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hellmann's</folder>
+	<filename>70.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hellmann's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>122</ymin>
+			<xmax>316</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

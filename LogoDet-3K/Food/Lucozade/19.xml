@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lucozade</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lucozade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>99</ymin>
+			<xmax>339</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

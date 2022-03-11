@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hollys Coffee</folder>
+	<filename>91.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hollys Coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>19</ymin>
+			<xmax>392</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

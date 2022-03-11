@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>wanchai ferry</folder>
+	<filename>66.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>356</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wanchai ferry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>67</ymin>
+			<xmax>244</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

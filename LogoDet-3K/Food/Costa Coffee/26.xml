@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Costa Coffee</folder>
+	<filename>26.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Costa Coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>154</ymin>
+			<xmax>505</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

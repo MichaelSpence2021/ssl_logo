@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Horlicks</folder>
+	<filename>8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horlicks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>152</ymin>
+			<xmax>240</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Eggo</folder>
+	<filename>30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eggo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>123</ymin>
+			<xmax>179</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

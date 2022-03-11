@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>LAVAZZA</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>352</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LAVAZZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>44</ymin>
+			<xmax>362</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hubba Bubba</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hubba Bubba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>143</ymin>
+			<xmax>347</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

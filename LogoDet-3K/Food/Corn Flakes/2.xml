@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Corn Flakes</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>385</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Flakes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>272</ymin>
+			<xmax>385</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hunt's Snack Pack</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hunt's Snack Pack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>6</ymin>
+			<xmax>415</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

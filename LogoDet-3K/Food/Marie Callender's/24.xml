@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marie Callender's</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marie Callender's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>39</ymin>
+			<xmax>454</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

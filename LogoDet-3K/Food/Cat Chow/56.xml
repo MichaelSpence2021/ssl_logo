@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Cat Chow</folder>
+	<filename>56.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cat Chow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>118</ymin>
+			<xmax>432</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

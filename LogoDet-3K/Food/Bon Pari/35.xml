@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Bon Pari</folder>
+	<filename>35.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bon Pari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>103</ymin>
+			<xmax>361</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

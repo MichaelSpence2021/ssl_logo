@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hot Pockets</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hot Pockets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>44</ymin>
+			<xmax>468</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

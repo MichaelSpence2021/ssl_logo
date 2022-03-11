@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>cheeburger cheeburger</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheeburger cheeburger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>520</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

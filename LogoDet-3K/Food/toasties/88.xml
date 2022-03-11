@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>toasties</folder>
+	<filename>88.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toasties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>228</ymin>
+			<xmax>322</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

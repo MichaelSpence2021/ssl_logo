@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maxwell House</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maxwell House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>107</ymin>
+			<xmax>386</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

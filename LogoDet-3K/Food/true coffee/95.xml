@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>true coffee</folder>
+	<filename>95.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>true coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>62</ymin>
+			<xmax>313</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

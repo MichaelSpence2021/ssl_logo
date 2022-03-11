@@ -1,0 +1,25 @@
+<annotation>
+	<folder>quickchek</folder>
+	<filename>139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quickchek</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>97</ymin>
+			<xmax>434</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

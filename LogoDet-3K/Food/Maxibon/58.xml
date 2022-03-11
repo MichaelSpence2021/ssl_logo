@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maxibon</folder>
+	<filename>58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maxibon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>68</ymin>
+			<xmax>452</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

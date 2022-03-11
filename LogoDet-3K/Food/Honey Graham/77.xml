@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Honey Graham</folder>
+	<filename>77.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Graham</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>52</ymin>
+			<xmax>316</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>wangzhihe</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wangzhihe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>189</ymin>
+			<xmax>360</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

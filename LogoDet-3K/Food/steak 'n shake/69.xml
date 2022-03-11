@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>steak 'n shake</folder>
+	<filename>69.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>358</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steak 'n shake</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>483</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

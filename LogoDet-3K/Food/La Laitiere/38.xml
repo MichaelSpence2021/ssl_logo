@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>La Laitiere</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Laitiere</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>114</ymin>
+			<xmax>362</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

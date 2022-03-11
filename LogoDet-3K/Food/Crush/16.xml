@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Crush</folder>
+	<filename>16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crush</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>205</ymin>
+			<xmax>263</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

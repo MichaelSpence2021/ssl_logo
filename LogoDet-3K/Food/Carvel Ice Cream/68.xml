@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Carvel Ice Cream</folder>
+	<filename>68.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carvel Ice Cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>117</ymin>
+			<xmax>435</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

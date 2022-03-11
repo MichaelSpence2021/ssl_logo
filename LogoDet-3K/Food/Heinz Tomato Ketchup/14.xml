@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Heinz Tomato Ketchup</folder>
+	<filename>14.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heinz Tomato Ketchup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>262</ymin>
+			<xmax>273</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

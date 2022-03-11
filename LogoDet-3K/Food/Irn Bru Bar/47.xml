@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Irn Bru Bar</folder>
+	<filename>47.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Irn Bru Bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>276</ymin>
+			<xmax>371</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

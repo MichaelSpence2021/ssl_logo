@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>HP Sauce</folder>
+	<filename>4.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>356</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HP Sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>190</ymin>
+			<xmax>255</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

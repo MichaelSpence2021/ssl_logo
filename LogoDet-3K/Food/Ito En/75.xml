@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Ito En</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ito En</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>222</ymin>
+			<xmax>204</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

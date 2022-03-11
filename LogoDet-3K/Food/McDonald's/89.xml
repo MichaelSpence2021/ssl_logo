@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>McDonald's</folder>
+	<filename>89.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>McDonald's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>57</ymin>
+			<xmax>349</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

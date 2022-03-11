@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Insomnia Coffee Company</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Insomnia Coffee Company</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>343</ymin>
+			<xmax>336</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

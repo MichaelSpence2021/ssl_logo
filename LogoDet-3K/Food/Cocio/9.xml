@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Cocio</folder>
+	<filename>9.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cocio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>149</ymin>
+			<xmax>371</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

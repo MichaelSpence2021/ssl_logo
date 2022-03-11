@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Glee Gum</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glee Gum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>123</ymin>
+			<xmax>364</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marble Slab Creamery</folder>
+	<filename>47.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marble Slab Creamery</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>224</ymin>
+			<xmax>495</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

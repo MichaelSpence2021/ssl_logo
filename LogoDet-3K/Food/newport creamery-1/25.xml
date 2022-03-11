@@ -1,0 +1,25 @@
+<annotation>
+	<folder>newport creamery</folder>
+	<filename>25.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>newport creamery-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>99</ymin>
+			<xmax>317</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

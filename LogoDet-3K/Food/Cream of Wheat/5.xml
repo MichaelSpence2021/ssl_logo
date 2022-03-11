@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Cream of Wheat</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cream of Wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>135</ymin>
+			<xmax>492</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

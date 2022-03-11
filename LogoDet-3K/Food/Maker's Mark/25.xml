@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maker's Mark</folder>
+	<filename>25.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maker's Mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>106</ymin>
+			<xmax>399</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

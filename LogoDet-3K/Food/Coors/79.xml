@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Coors</folder>
+	<filename>79.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>110</ymin>
+			<xmax>409</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

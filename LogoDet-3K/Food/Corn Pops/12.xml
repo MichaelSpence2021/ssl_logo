@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Corn Pops</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Pops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>124</ymin>
+			<xmax>309</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

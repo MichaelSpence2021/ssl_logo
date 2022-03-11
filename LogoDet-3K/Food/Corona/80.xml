@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Corona</folder>
+	<filename>80.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corona</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>70</ymin>
+			<xmax>495</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

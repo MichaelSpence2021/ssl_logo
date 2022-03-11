@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Country Crock</folder>
+	<filename>27.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Country Crock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>114</ymin>
+			<xmax>348</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

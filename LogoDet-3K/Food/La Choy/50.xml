@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>La Choy</folder>
+	<filename>50.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>487</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>La Choy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>197</ymin>
+			<xmax>293</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

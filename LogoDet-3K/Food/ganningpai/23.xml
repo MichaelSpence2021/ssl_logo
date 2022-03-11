@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>ganningpai</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ganningpai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>76</ymin>
+			<xmax>166</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

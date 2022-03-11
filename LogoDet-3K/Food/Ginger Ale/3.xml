@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ginger Ale</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ginger Ale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>195</ymin>
+			<xmax>390</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

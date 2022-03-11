@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Hardee's</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hardee's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>13</ymin>
+			<xmax>466</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maizena</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maizena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>372</ymin>
+			<xmax>242</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

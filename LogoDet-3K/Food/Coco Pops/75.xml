@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Coco Pops</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coco Pops</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>53</ymin>
+			<xmax>394</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

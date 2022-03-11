@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ice Breakers</folder>
+	<filename>50.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ice Breakers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>85</ymin>
+			<xmax>411</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>charley's grilled subs</folder>
+	<filename>57.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charley's grilled subs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>186</ymin>
+			<xmax>443</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

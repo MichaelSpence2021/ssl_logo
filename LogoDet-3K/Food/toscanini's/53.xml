@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>toscanini's</folder>
+	<filename>53.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toscanini's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>138</ymin>
+			<xmax>374</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

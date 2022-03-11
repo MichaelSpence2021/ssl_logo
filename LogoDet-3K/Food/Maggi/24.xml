@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Maggi</folder>
+	<filename>24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maggi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>39</ymin>
+			<xmax>240</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

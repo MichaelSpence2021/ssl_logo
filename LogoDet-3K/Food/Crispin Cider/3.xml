@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Crispin Cider</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crispin Cider</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>236</ymin>
+			<xmax>420</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

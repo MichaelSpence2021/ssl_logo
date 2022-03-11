@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Eukanuba</folder>
+	<filename>85.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eukanuba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>72</ymin>
+			<xmax>394</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

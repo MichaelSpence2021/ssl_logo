@@ -1,0 +1,25 @@
+<annotation>
+	<folder>nong shim ltd</folder>
+	<filename>97.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>363</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nong shim ltd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>61</ymin>
+			<xmax>181</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

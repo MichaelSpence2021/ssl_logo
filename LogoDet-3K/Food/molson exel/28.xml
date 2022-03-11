@@ -1,0 +1,25 @@
+<annotation>
+	<folder>molson exel</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>molson exel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>125</ymin>
+			<xmax>138</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

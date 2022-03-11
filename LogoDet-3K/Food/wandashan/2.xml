@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>wandashan</folder>
+	<filename>2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>437</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wandashan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>45</ymin>
+			<xmax>160</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

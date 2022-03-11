@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maynards</folder>
+	<filename>10.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maynards</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>152</ymin>
+			<xmax>347</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

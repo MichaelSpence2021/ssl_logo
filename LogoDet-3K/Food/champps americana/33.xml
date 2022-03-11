@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>champps americana</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>champps americana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>352</ymin>
+			<xmax>377</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

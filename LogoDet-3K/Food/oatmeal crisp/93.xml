@@ -1,0 +1,25 @@
+<annotation>
+	<folder>oatmeal crisp</folder>
+	<filename>93.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oatmeal crisp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>112</ymin>
+			<xmax>329</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

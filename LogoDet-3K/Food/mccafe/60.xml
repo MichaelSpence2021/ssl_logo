@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>mccafe</folder>
+	<filename>60.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mccafe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>264</ymin>
+			<xmax>282</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

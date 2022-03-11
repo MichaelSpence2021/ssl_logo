@@ -1,0 +1,25 @@
+<annotation>
+	<folder>noble roman's</folder>
+	<filename>39.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noble roman's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>134</ymin>
+			<xmax>313</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

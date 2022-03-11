@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Heinz Baked Beans</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heinz Baked Beans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>149</ymin>
+			<xmax>297</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Mecca Cola</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mecca Cola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>106</ymin>
+			<xmax>500</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

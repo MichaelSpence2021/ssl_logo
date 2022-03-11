@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>jittery joe's</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jittery joe's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>44</ymin>
+			<xmax>278</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>
