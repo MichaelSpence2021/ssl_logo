@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>huarun</folder>
+	<filename>120.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>huarun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>30</ymin>
+			<xmax>311</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

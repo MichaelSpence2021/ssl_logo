@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>travel smart by conair</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>travel smart by conair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>109</ymin>
+			<xmax>426</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

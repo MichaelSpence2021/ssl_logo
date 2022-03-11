@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>ka-bar</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ka-bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>254</ymin>
+			<xmax>174</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

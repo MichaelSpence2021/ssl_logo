@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2007</folder>
+	<filename>74.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>younkers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>85</ymin>
+			<xmax>154</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>younkers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>75</ymin>
+			<xmax>435</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

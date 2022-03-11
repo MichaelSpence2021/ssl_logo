@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>abus</folder>
+	<filename>120.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>103</ymin>
+			<xmax>510</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

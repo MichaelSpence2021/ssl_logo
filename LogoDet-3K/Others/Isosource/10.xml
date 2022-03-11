@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>VOC2007</folder>
+	<filename>10.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Isosource</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>210</ymin>
+			<xmax>418</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Isosource</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>163</ymin>
+			<xmax>297</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

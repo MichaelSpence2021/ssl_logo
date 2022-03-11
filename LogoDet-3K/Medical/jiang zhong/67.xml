@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>jiang zhong</folder>
+	<filename>67.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jiang zhong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>128</ymin>
+			<xmax>162</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

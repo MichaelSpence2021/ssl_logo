@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2007</folder>
+	<filename>2.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CBCI Telecom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>153</ymin>
+			<xmax>229</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CBCI Telecom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>157</ymin>
+			<xmax>237</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

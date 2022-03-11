@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>VOC2007</folder>
+	<filename>24.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Klei</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>47</ymin>
+			<xmax>474</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Klei</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>245</ymin>
+			<xmax>131</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>ouija board</folder>
+	<filename>35.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ouija board</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>11</ymin>
+			<xmax>350</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

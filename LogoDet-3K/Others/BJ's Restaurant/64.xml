@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>VOC2007</folder>
+	<filename>64.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BJ's Restaurant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>40</ymin>
+			<xmax>329</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BJ's Restaurant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>268</ymin>
+			<xmax>355</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

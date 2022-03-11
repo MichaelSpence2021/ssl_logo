@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>High School Musical</folder>
+	<filename>25.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>High School Musical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>82</ymin>
+			<xmax>373</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>band-aid</folder>
+	<filename>53.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>band-aid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>26</ymin>
+			<xmax>432</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>band-aid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>204</ymin>
+			<xmax>445</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

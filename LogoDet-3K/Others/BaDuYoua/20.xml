@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>VOC2007</folder>
+	<filename>20.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BaDuYoua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>11</ymin>
+			<xmax>98</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BaDuYoua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>6</ymin>
+			<xmax>41</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

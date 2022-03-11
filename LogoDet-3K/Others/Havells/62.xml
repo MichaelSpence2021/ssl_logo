@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Havells</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Havells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>226</ymin>
+			<xmax>474</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

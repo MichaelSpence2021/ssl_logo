@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Black Jack</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black Jack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>177</ymin>
+			<xmax>481</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

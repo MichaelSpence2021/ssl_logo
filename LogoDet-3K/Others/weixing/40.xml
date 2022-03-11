@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2007</folder>
+	<filename>40.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weixing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>21</ymin>
+			<xmax>222</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weixing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>112</ymin>
+			<xmax>229</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

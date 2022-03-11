@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Garcia Y Vega</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garcia Y Vega</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>170</ymin>
+			<xmax>303</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

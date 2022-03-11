@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>kaixinwang</folder>
+	<filename>106.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kaixinwang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>87</ymin>
+			<xmax>420</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

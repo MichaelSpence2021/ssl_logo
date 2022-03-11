@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>longping</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>longping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>21</ymin>
+			<xmax>188</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>

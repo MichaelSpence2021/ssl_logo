@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>CMC</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CMC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>64</ymin>
+			<xmax>438</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

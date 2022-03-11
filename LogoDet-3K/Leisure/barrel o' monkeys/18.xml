@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>barrel o' monkeys</folder>
+	<filename>18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barrel o' monkeys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>206</ymin>
+			<xmax>258</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

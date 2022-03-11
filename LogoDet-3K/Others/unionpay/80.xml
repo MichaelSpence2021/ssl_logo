@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2007</folder>
+	<filename>80.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unionpay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>17</ymin>
+			<xmax>186</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unionpay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>27</ymin>
+			<xmax>485</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>VOC2007</folder>
+	<filename>98.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teamviewer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>161</ymin>
+			<xmax>392</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>teamviewer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>144</ymin>
+			<xmax>84</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

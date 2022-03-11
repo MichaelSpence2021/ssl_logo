@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>Hot Wheels</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hot Wheels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>39</ymin>
+			<xmax>468</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

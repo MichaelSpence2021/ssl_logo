@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Colt</folder>
+	<filename>40.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>397</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Colt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>25</ymin>
+			<xmax>325</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

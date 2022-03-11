@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pipeworks</folder>
+	<filename>179.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pipeworks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>26</ymin>
+			<xmax>391</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

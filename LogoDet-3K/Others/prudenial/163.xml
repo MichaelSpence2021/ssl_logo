@@ -1,0 +1,25 @@
+<annotation>
+	<folder>prudenial</folder>
+	<filename>163.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prudenial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>20</ymin>
+			<xmax>469</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

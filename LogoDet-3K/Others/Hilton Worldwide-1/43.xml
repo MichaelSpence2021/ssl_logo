@@ -1,0 +1,37 @@
+<annotation verified="no">
+	<folder>Hilton Worldwide</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hilton Worldwide-1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>143</ymin>
+			<xmax>268</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hilton Worldwide-3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>10</ymin>
+			<xmax>456</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bermudez</folder>
+	<filename>3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bermudez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>183</ymin>
+			<xmax>381</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

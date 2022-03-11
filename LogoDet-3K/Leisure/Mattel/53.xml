@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Mattel</folder>
+	<filename>53.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>522</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mattel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>114</ymin>
+			<xmax>519</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>baird</folder>
+	<filename>110.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>154</ymin>
+			<xmax>157</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>baird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>167</ymin>
+			<xmax>487</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

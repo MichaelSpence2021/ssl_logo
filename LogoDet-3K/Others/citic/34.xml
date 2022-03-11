@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>citic</folder>
+	<filename>34.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>citic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>93</ymin>
+			<xmax>420</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

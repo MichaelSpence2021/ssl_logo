@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Kung Fu Panda Crunchers</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kung Fu Panda Crunchers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>68</ymin>
+			<xmax>354</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

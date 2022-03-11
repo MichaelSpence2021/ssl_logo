@@ -1,0 +1,25 @@
+<annotation>
+	<folder>qq</folder>
+	<filename>128.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>42</ymin>
+			<xmax>351</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

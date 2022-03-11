@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>bealls</folder>
+	<filename>62.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>366</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bealls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>64</ymin>
+			<xmax>339</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>cofco</folder>
+	<filename>31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cofco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>212</ymin>
+			<xmax>457</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

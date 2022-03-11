@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>band-aid</folder>
+	<filename>80.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>band-aid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>60</ymin>
+			<xmax>382</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

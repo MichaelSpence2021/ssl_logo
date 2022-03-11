@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>von maur</folder>
+	<filename>48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>von maur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>68</ymin>
+			<xmax>402</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

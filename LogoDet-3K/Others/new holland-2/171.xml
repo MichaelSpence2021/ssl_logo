@@ -1,0 +1,25 @@
+<annotation>
+	<folder>new holland-2</folder>
+	<filename>171.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>367</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>new holland-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>298</ymin>
+			<xmax>483</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

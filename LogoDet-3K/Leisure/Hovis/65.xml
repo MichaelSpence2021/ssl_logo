@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hovis</folder>
+	<filename>65.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>372</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hovis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>66</ymin>
+			<xmax>387</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

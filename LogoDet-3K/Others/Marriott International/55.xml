@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Marriott International</folder>
+	<filename>55.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marriott International</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>98</ymin>
+			<xmax>388</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

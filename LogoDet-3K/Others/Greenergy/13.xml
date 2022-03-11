@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Greenergy</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Greenergy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>75</ymin>
+			<xmax>492</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

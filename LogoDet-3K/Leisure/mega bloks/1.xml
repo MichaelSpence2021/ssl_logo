@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mega bloks</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mega bloks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>60</ymin>
+			<xmax>306</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

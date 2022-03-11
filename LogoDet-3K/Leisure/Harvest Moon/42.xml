@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Harvest Moon</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harvest Moon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>61</ymin>
+			<xmax>455</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

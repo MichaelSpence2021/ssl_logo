@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>Barex</folder>
+	<filename>6.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Barex-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>114</ymin>
+			<xmax>291</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barex-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>121</ymin>
+			<xmax>461</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>Indiana</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>514</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Indiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>221</ymin>
+			<xmax>324</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

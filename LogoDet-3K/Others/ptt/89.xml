@@ -1,0 +1,25 @@
+<annotation>
+	<folder>ptt</folder>
+	<filename>89.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ptt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>62</ymin>
+			<xmax>292</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

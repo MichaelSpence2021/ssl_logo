@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>mayinglong</folder>
+	<filename>71.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mayinglong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>228</ymin>
+			<xmax>88</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mayinglong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>225</ymin>
+			<xmax>334</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

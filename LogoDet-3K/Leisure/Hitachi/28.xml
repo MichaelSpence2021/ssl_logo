@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hitachi</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hitachi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>21</ymin>
+			<xmax>523</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

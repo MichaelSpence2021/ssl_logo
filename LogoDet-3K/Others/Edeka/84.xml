@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Edeka</folder>
+	<filename>84.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Edeka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>209</ymin>
+			<xmax>235</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

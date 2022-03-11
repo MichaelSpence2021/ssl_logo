@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>luoxin</folder>
+	<filename>113.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luoxin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>19</ymin>
+			<xmax>215</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

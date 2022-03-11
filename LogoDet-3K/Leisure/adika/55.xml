@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>adika</folder>
+	<filename>55.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>374</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adika</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>136</ymin>
+			<xmax>327</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

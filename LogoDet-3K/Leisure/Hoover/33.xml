@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hoover</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hoover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>67</ymin>
+			<xmax>433</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

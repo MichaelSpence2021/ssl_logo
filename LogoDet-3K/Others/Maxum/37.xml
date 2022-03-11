@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maxum</folder>
+	<filename>37.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>509</width>
+		<height>393</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maxum</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>274</ymin>
+			<xmax>509</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

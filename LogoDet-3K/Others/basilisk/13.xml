@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>basilisk</folder>
+	<filename>13.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basilisk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>35</ymin>
+			<xmax>487</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

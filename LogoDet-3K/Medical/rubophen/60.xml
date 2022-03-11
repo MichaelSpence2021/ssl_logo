@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>60.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubophen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>33</ymin>
+			<xmax>416</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rubophen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>85</ymin>
+			<xmax>490</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

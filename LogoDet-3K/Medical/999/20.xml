@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>999</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>999</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>35</ymin>
+			<xmax>360</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>quick</folder>
+	<filename>12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>373</width>
+		<height>491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>340</ymin>
+			<xmax>309</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

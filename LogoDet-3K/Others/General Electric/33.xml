@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>General Electric</folder>
+	<filename>33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>General Electric</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>8</ymin>
+			<xmax>458</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ipso</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ipso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>76</ymin>
+			<xmax>306</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

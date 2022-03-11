@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hot Wheels</folder>
+	<filename>67.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hot Wheels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>112</ymin>
+			<xmax>424</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Copeland's</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Copeland's</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>74</ymin>
+			<xmax>518</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

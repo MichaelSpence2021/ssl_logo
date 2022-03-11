@@ -1,0 +1,25 @@
+<annotation>
+	<folder>prs guitars</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>516</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prs guitars</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>48</ymin>
+			<xmax>309</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

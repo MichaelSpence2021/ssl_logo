@@ -1,0 +1,25 @@
+<annotation>
+	<folder>mohawk</folder>
+	<filename>88.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>390</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mohawk-2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>162</ymin>
+			<xmax>480</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

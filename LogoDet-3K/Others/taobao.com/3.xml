@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>3.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taobao.com</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>123</ymin>
+			<xmax>262</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>taobao.com</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>293</ymin>
+			<xmax>264</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

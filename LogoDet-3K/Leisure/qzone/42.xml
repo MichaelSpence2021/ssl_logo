@@ -1,0 +1,25 @@
+<annotation>
+	<folder>qzone</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qzone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>127</ymin>
+			<xmax>333</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation>
+	<folder>magic 8-ball</folder>
+	<filename>158.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>magic 8-ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>8</ymin>
+			<xmax>250</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>magic 8-ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>4</ymin>
+			<xmax>490</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

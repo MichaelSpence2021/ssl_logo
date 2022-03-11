@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation verified="yes">
+	<folder>VOC2007</folder>
+	<filename>81.jpg</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>termalgin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>138</ymin>
+			<xmax>205</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>termalgin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>134</ymin>
+			<xmax>332</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

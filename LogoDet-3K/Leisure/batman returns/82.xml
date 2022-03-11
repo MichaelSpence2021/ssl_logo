@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>batman returns</folder>
+	<filename>82.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batman returns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>268</ymin>
+			<xmax>340</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

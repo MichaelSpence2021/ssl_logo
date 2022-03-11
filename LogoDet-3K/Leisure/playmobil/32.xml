@@ -1,0 +1,25 @@
+<annotation>
+	<folder>playmobil</folder>
+	<filename>32.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>playmobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>39</ymin>
+			<xmax>494</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

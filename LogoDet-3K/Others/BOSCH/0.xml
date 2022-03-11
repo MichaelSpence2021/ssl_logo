@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>BOSCH</folder>
+	<filename>0.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BOSCH</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>103</ymin>
+			<xmax>493</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

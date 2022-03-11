@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>uphamol</folder>
+	<filename>139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uphamol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>18</ymin>
+			<xmax>359</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>meituan</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meituan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>30</ymin>
+			<xmax>365</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

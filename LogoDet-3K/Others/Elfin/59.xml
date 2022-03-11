@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Elfin</folder>
+	<filename>59.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elfin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>13</ymin>
+			<xmax>495</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

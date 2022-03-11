@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>meccano</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meccano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>90</ymin>
+			<xmax>478</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

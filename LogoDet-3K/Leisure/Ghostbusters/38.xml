@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Ghostbusters</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ghostbusters</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>11</ymin>
+			<xmax>461</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

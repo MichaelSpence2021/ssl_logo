@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>marklin</folder>
+	<filename>51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marklin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>223</ymin>
+			<xmax>383</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

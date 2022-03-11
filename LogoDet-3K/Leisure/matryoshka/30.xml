@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>matryoshka</folder>
+	<filename>30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>matryoshka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>172</ymin>
+			<xmax>473</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

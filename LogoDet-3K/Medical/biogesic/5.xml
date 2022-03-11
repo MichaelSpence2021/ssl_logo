@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>biogesic</folder>
+	<filename>5.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>biogesic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>232</ymin>
+			<xmax>364</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

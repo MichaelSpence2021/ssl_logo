@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Costco Wholesale</folder>
+	<filename>44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Costco Wholesale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>126</ymin>
+			<xmax>446</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

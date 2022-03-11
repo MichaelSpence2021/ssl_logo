@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>war horse</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>war horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>109</ymin>
+			<xmax>490</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

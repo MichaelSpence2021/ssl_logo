@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Hooters</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hooters</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>97</ymin>
+			<xmax>474</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Mad River</folder>
+	<filename>7.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mad River</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>163</ymin>
+			<xmax>306</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

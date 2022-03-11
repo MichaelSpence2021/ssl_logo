@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>michelin</folder>
+	<filename>96.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>michelin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>67</ymin>
+			<xmax>480</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

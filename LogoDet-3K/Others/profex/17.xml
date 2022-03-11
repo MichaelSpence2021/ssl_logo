@@ -1,0 +1,25 @@
+<annotation>
+	<folder>profex</folder>
+	<filename>17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>393</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>profex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>94</ymin>
+			<xmax>502</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

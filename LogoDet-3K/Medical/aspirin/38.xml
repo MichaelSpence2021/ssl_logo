@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>aspirin</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspirin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>197</ymin>
+			<xmax>372</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

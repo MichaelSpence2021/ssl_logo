@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Mack &amp; Dave's Department Store</folder>
+	<filename>76.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>354</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mack &amp; Dave's Department Store</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>15</ymin>
+			<xmax>341</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

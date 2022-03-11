@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>webster's dictionary</folder>
+	<filename>19.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>webster's dictionary</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>48</ymin>
+			<xmax>295</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

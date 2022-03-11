@@ -1,0 +1,25 @@
+<annotation>
+	<folder>posiflex</folder>
+	<filename>45.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>posiflex</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>14</ymin>
+			<xmax>160</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

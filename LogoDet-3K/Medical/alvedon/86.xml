@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>alvedon</folder>
+	<filename>86.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>506</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alvedon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>59</ymin>
+			<xmax>329</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

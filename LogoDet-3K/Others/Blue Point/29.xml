@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Blue Point</folder>
+	<filename>29.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blue Point</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>104</ymin>
+			<xmax>393</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

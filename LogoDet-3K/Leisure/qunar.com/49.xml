@@ -1,0 +1,25 @@
+<annotation>
+	<folder>qunar.com</folder>
+	<filename>49.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qunar.com</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>161</ymin>
+			<xmax>492</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

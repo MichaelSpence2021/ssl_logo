@@ -1,0 +1,25 @@
+<annotation>
+	<folder>q8</folder>
+	<filename>17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>365</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>q8</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>62</ymin>
+			<xmax>319</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

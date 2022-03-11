@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>kangshu</folder>
+	<filename>204.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangshu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>10</ymin>
+			<xmax>118</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kangshu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>140</ymin>
+			<xmax>282</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

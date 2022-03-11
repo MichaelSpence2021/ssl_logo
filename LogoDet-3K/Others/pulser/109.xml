@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pulser</folder>
+	<filename>109.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pulser</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>178</ymin>
+			<xmax>381</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

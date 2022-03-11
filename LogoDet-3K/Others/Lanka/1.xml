@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lanka</folder>
+	<filename>1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>505</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lanka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>92</ymin>
+			<xmax>321</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

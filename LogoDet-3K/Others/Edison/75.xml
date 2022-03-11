@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Edison</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Edison</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>246</ymin>
+			<xmax>493</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

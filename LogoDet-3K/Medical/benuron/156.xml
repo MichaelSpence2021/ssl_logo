@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>benuron</folder>
+	<filename>156.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benuron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>27</ymin>
+			<xmax>360</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

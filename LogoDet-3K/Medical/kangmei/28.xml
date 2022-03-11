@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>kangmei</folder>
+	<filename>28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangmei</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>267</ymin>
+			<xmax>513</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

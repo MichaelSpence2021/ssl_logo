@@ -1,0 +1,25 @@
+<annotation>
+	<folder>music man</folder>
+	<filename>141.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>music man-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>222</ymin>
+			<xmax>198</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

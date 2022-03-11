@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>GameWorks</folder>
+	<filename>43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GameWorks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>70</ymin>
+			<xmax>474</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

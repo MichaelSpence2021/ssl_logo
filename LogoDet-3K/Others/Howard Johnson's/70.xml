@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Howard Johnson's</folder>
+	<filename>70.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Howard Johnson's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>380</ymin>
+			<xmax>280</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

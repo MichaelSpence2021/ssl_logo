@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Krusty-O's</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Krusty-O's</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>13</ymin>
+			<xmax>406</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

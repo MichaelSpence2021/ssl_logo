@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Maverik Inc</folder>
+	<filename>20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maverik Inc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>64</ymin>
+			<xmax>514</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

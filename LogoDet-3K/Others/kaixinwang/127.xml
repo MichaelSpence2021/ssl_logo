@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><annotation verified="no">
+	<folder>kaixinwang</folder>
+	<filename>127.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kaixinwang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>100</ymin>
+			<xmax>348</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kaixinwang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>104</ymin>
+			<xmax>238</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

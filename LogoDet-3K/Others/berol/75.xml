@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>berol</folder>
+	<filename>75.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>2</ymin>
+			<xmax>224</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Lares Ice Cream Parlor</folder>
+	<filename>46.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>505</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lares Ice Cream Parlor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>18</ymin>
+			<xmax>355</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

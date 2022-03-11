@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>atamel</folder>
+	<filename>83.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>487</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>atamel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>212</ymin>
+			<xmax>454</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

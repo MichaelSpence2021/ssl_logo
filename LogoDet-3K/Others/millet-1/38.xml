@@ -1,0 +1,25 @@
+<annotation>
+	<folder>millet</folder>
+	<filename>38.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>millet-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>242</ymin>
+			<xmax>329</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

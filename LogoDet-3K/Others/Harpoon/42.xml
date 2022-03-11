@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Harpoon</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harpoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>51</ymin>
+			<xmax>439</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>battleship</folder>
+	<filename>58.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battleship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>50</ymin>
+			<xmax>339</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

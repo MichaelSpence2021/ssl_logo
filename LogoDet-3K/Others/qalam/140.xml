@@ -1,0 +1,25 @@
+<annotation>
+	<folder>qalam</folder>
+	<filename>140.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qalam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>76</ymin>
+			<xmax>469</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

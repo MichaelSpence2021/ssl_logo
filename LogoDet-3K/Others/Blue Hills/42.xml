@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Blue Hills</folder>
+	<filename>42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blue Hills</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>218</ymin>
+			<xmax>376</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

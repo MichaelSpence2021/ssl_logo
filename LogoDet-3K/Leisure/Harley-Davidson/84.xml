@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Harley-Davidson</folder>
+	<filename>84.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harley-Davidson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>79</ymin>
+			<xmax>339</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

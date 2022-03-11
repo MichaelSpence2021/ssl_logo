@@ -1,0 +1,25 @@
+<annotation verified="yes">
+	<folder>Excel</folder>
+	<filename>23.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Excel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>25</ymin>
+			<xmax>365</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

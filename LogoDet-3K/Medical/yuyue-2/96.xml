@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>yuyue</folder>
+	<filename>96.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yuyue-4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>74</ymin>
+			<xmax>81</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>
