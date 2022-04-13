@@ -9,6 +9,7 @@ class logoDet3K(Dataset):
     def __init__(self, dataset_path, transform = None):
         self.image_paths = []
         self.y = []
+        self.transform = transform
         
         top_labels = [path for path in os.listdir(dataset_path) if path[0] != '.']
         print(top_labels[:10])
@@ -31,7 +32,7 @@ class logoDet3K(Dataset):
         
         image = Image.open(self.image_paths[index])
         image = image.resize((32,32))
-        if transform != None:
-            image = transform(image)
+        if self.transform != None:
+            image = self.transform(image)
             return image
         return image, self.y[index]
