@@ -6,7 +6,7 @@ from PIL import Image
 
 class logoDet3K(Dataset):
     
-    def __init__(self, dataset_path, transforms = None):
+    def __init__(self, dataset_path, transform = None):
         self.image_paths = []
         self.y = []
         
@@ -31,7 +31,7 @@ class logoDet3K(Dataset):
         
         image = Image.open(self.image_paths[index])
         image = image.resize((32,32))
-        if transforms != None:
-            image = transforms(image)
+        if transform != None:
+            image = transform(image)
             return image
         return image, self.y[index]
