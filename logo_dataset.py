@@ -34,5 +34,5 @@ class logoDet3K(Dataset):
         image = image.resize((32,32))
         if self.transform != None:
             image = self.transform(image)
-            return image
+            return image, self.y[index]
         return image, self.y[index]
