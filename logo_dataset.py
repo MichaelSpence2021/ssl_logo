@@ -24,8 +24,9 @@ class logoDet3K(Dataset):
                 for path in img_paths:
                     img_path = logo_path + '/' + path
                     self.image_paths.append(img_path)
-                    #self.y.append(label + '_' + logo)
-                    self.y.append(label_index)
+                    label_vector = torch.zeros(9)
+                    label_vector[label_index] = 1.0
+                    self.y.append(label_vector)
                 logo_index += 1
                     
              label_index += 1
