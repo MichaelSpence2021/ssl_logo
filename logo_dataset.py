@@ -29,7 +29,7 @@ class logoDet3K(Dataset):
                     self.y.append(label_vector)
                 logo_index += 1
                     
-             label_index += 1
+            label_index += 1
                     
     def __len__(self):
         return len(self.image_paths)
