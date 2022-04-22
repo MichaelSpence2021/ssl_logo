@@ -13,6 +13,8 @@ class logoDet3K(Dataset):
         
         top_labels = [path for path in os.listdir(dataset_path) if path[0] != '.']
         print(top_labels[:10])
+        label_index = 0
+        logo_index = 0
         for label in top_labels:
             label_path = dataset_path + '/' + label
             logo_paths = [path for path in os.listdir(label_path) if path[0] != '.']
@@ -23,7 +25,10 @@ class logoDet3K(Dataset):
                     img_path = logo_path + '/' + path
                     self.image_paths.append(img_path)
                     #self.y.append(label + '_' + logo)
-                    self.y.append(1)
+                    self.y.append(label_index)
+                logo_index += 1
+                    
+             label_index += 1
                     
     def __len__(self):
         return len(self.image_paths)
